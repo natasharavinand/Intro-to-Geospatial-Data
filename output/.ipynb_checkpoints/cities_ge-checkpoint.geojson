@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Country": "cn", "City": "shanghai", "Population": 14608512, "Latitude": 31.045556, "Longitude": 121.399722 }, "geometry": { "type": "Point", "coordinates": [ 31.045556, 121.399722 ] } },
+{ "type": "Feature", "properties": { "Country": "br", "City": "sao paulo", "Population": 10021437, "Latitude": -23.473293, "Longitude": -46.665803 }, "geometry": { "type": "Point", "coordinates": [ -23.473293, -46.665803 ] } },
+{ "type": "Feature", "properties": { "Country": "cd", "City": "kinshasa", "Population": 7787832, "Latitude": -4.3, "Longitude": 15.3 }, "geometry": { "type": "Point", "coordinates": [ -4.3, 15.3 ] } },
+{ "type": "Feature", "properties": { "Country": "eg", "City": "cairo", "Population": 7734602, "Latitude": 30.05, "Longitude": 31.25 }, "geometry": { "type": "Point", "coordinates": [ 30.05, 31.25 ] } },
+{ "type": "Feature", "properties": { "Country": "cn", "City": "peking", "Population": 7480601, "Latitude": 39.928889, "Longitude": 116.388333 }, "geometry": { "type": "Point", "coordinates": [ 39.928889, 116.388333 ] } },
+{ "type": "Feature", "properties": { "Country": "gb", "City": "london", "Population": 7421228, "Latitude": 51.514125, "Longitude": -0.093689 }, "geometry": { "type": "Point", "coordinates": [ 51.514125, -0.093689 ] } },
+{ "type": "Feature", "properties": { "Country": "co", "City": "bogota", "Population": 7102602, "Latitude": 4.649178, "Longitude": -74.062827 }, "geometry": { "type": "Point", "coordinates": [ 4.649178, -74.062827 ] } },
+{ "type": "Feature", "properties": { "Country": "bd", "City": "dhaka", "Population": 6493177, "Latitude": 23.7230556, "Longitude": 90.4086111 }, "geometry": { "type": "Point", "coordinates": [ 23.7230556, 90.4086111 ] } },
+{ "type": "Feature", "properties": { "Country": "br", "City": "rio de janeiro", "Population": 6023742, "Latitude": -22.9, "Longitude": -43.233333 }, "geometry": { "type": "Point", "coordinates": [ -22.9, -43.233333 ] } },
+{ "type": "Feature", "properties": { "Country": "cl", "City": "santiago", "Population": 4837248, "Latitude": -33.45, "Longitude": -70.666667 }, "geometry": { "type": "Point", "coordinates": [ -33.45, -70.666667 ] } },
+{ "type": "Feature", "properties": { "Country": "ca", "City": "toronto", "Population": 4612187, "Latitude": 43.666667, "Longitude": -79.416667 }, "geometry": { "type": "Point", "coordinates": [ 43.666667, -79.416667 ] } },
+{ "type": "Feature", "properties": { "Country": "au", "City": "sydney", "Population": 4394585, "Latitude": -33.861481, "Longitude": 151.205475 }, "geometry": { "type": "Point", "coordinates": [ -33.861481, 151.205475 ] } },
+{ "type": "Feature", "properties": { "Country": "cn", "City": "wuhan", "Population": 4184206, "Latitude": 30.580125, "Longitude": 114.273405 }, "geometry": { "type": "Point", "coordinates": [ 30.580125, 114.273405 ] } },
+{ "type": "Feature", "properties": { "Country": "cn", "City": "chongqing", "Population": 3967028, "Latitude": 29.562778, "Longitude": 106.552778 }, "geometry": { "type": "Point", "coordinates": [ 29.562778, 106.552778 ] } },
+{ "type": "Feature", "properties": { "Country": "eg", "City": " alexandria", "Population": 3811512, "Latitude": 31.1980556, "Longitude": 29.9191667 }, "geometry": { "type": "Point", "coordinates": [ 31.1980556, 29.9191667 ] } },
+{ "type": "Feature", "properties": { "Country": "eg", "City": "cairo", "Population": 7734602, "Latitude": 30.05, "Longitude": 31.25 }, "geometry": { "type": "Point", "coordinates": [ 30.05, 31.25 ] } }
+]
+}
